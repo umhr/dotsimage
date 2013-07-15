@@ -79,7 +79,7 @@ package
 			//addChild(bitmap);
 			
 			circleCanvas.graphics.clear();
-			circleCanvas.graphics.beginFill(0xff0000, 0.2);
+			circleCanvas.graphics.beginFill(0xffffff, 0.2);
 			circleCanvas.graphics.drawRect(0, 0, 320 * 2, 240 * 2);
 			circleCanvas.graphics.endFill();
 			
